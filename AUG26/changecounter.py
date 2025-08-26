@@ -1,6 +1,5 @@
 def calculate_change(amount):
     denominations = [
-        (100, 'dollar'),
         (25, 'quarter'),
         (10, 'dime'),
         (5, 'nickel'),
